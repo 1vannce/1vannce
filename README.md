@@ -50,7 +50,7 @@ I'm an Information Technology student based in Cebu, passionate about software d
   <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=1vannce&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
 </p>
 
 ### ♟️ Beyond Coding
