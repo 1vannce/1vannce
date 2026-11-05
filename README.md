@@ -25,16 +25,24 @@ I'm an Information Technology student based in Cebu, passionate about software d
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,c,cpp,dotnet,py,postgres,html,css,js,ts,react,vite,tailwind,threejs,git,bash,linux,windows,vscode,visualstudio,figma,obsidian,notion&perline=12" alt="Vannce's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,nextjs,vite,tailwind,threejs,nodejs,express,postgres,prisma,supabase,git,bash,linux,windows,vscode,visualstudio,figma,obsidian,notion&perline=12" alt="Vannce's Tech Stack" />
   </a>
 </p>
 
 ### 🚀 About Me
 - 🎓 Currently studying Bachelor of Science in Information Technology.
-- 💻 Building projects using **C#** and **ASP.NET**, and diving deep into database normalization and SQL.
+- 💻 Building full stack web apps with **React**, **Next.js**, and **PostgreSQL**, and diving deep into database normalization and SQL.
 - 🌐 Gaining hands-on experience with networking topologies and Cisco Packet Tracer.
 - 🐧 Constantly exploring terminal tools and customizing workflows across Linux and Windows.
 - 📝 Big fan of keeping my knowledge base organized using Markdown and Obsidian.
+
+### 🔨 Currently Working On
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [🐾 PanelPaw](https://github.com/1vannce/panelpaw) | Manga and manhwa tracker for finding titles, organizing a library, and tracking chapter progress. [Live demo](https://panelpaw.vercel.app/) | React Native, Expo |
+| [🏝️ Kubo Beach Resort System](https://github.com/EirAndrie/KUBO_ReservationManagementSystem) | Reservation management system for a beach resort. I'm the project lead. | PostgreSQL, Express, React, Node.js |
+| [🚗 RCWheels Systems Integration](https://github.com/1vannce/rcwheels-systems-integration) | Inventory, requisition, purchasing, and delivery tracking for an auto parts business. | Next.js, Supabase |
+| [👴 Senior Citizen Beneficiary Verification](https://github.com/1vannce/senior-citizen-beneficiary-system) | Beneficiary verification with in-browser face recognition, eligibility checks, and claim tracking. | Next.js, Prisma, SQLite |
 
 ### 📊 GitHub Stats
 <p align="center">
