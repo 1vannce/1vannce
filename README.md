@@ -46,8 +46,8 @@ I'm an Information Technology student based in Cebu, passionate about software d
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1vannce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vannce&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=1vannce&theme=tokyonight&hide_border=true" alt="GitHub streak" />
